@@ -6,8 +6,7 @@ function whisper(Hello)
 { 
   return Hello.toLowerCase()
 }
-function logShout(Hello)
-function logShout(spy){
+function logShout(Hello){
   console.log()
 }
 
