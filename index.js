@@ -5,7 +5,3 @@ function shout(Hello)
 function whisper(Hello)
 { 
   return Hello.toLowerCase()
-}
-function log.Shout(Hello)
-console.log(logShout
-)
