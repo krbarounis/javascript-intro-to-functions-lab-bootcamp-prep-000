@@ -8,7 +8,8 @@ function whisper(Hello)
 }
 function logShout(string)
 {
-  console.log(`spy`)
+  console.log()
+  return
 }
 function logWhisper(string) 
 {
